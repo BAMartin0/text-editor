@@ -15,11 +15,9 @@
   ## Installation
   Clone the repo
   Install the packages
-  Run node index.js
-  Answer the prompts
+  Run build
+  Run npm start dev
 
-  ## Usage
-  The prompts will run automatically on enter.
 
   ## License
   mit
